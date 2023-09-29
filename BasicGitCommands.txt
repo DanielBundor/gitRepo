@@ -1,0 +1,24 @@
+Check the Git version:
+
+git --version
+
+Initialize a Git repository:
+
+git init
+
+Check the status of your repository:
+
+git status
+
+Add files to the staging area:
+
+git add <filename>
+
+Commit changes with a message:
+
+git commit -m "Your commit message here"
+
+View commit history:
+
+git log
+
